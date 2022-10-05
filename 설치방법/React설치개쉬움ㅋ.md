@@ -15,3 +15,4 @@ https://nodejs.org/en/ (최신 버전보다는 왼쪽의 안정적이고 신뢰�
 
 ![4](https://user-images.githubusercontent.com/110442250/193964717-d57109bc-8a3c-4e5c-bae2-25031ad706cb.jpg)
 
+### 끝났으면 vscode로 하자
