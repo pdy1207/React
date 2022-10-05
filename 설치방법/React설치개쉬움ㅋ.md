@@ -29,3 +29,20 @@ https://nodejs.org/en/ (최신 버전보다는 왼쪽의 안정적이고 신뢰�
  ![4](https://user-images.githubusercontent.com/110442250/193967717-a0e609a0-a6bd-47a8-a8f3-13948d35c1a0.jpg)
 
 # 끗!
+
+![6](https://user-images.githubusercontent.com/110442250/193968393-b598ad4a-a8de-43f8-b643-7314edae3aea.jpg)
+
+ - 리액트에서 자주 사용하는 코드  뭉치들을 자동 완성 해주는 플러그인
+
+            rcc
+            클래스 컴포넌트 생성
+            rrc
+            클래스 컴포넌트와 react-redux 리덕스를 연결하여 생성
+            rcjc
+            import와 export 없이 클래스 컴포넌트 생성
+            rwwd
+            import 없이 클래스 컴포넌트 생성
+            rsc
+            화살표 함수형 컴포넌트 생성
+            rsf
+            함수형 컴포넌트 생성
