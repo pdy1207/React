@@ -16,3 +16,16 @@ https://nodejs.org/en/ (최신 버전보다는 왼쪽의 안정적이고 신뢰�
 ![4](https://user-images.githubusercontent.com/110442250/193964717-d57109bc-8a3c-4e5c-bae2-25031ad706cb.jpg)
 
 ### 끝났으면 vscode로 하자
+
+            vscode로 넘어와서 Ctrl+`키를 눌러 Toggle Terminal 을 열어
+            create-react-app my-app
+            
+![5](https://user-images.githubusercontent.com/110442250/193967261-89024852-7f78-4c30-b72d-53e70fcab22b.jpg)
+
+            $ cd my-app
+            $ npm start 실행을하게되면 
+            
+            
+ ![4](https://user-images.githubusercontent.com/110442250/193967717-a0e609a0-a6bd-47a8-a8f3-13948d35c1a0.jpg)
+
+# 끗!
