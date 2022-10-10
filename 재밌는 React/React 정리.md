@@ -1,5 +1,9 @@
 # React
 
+ * ***우선 react 를 시작하려면 기초 html, css 가 필요하다 + JavaScript... 왜?***
+ * ***이유는 간단하다 react에서 JSX라는 문법을 쓰는데 이게 JSX 자바스크립트 와 html 한번에 합쳐 놓은것 같은 문법 이기 때문***
+
+
  - 터미널에 뜨는 warning 
 
  ![3](https://user-images.githubusercontent.com/110442250/194712722-875c9717-bf04-4b8b-a3e2-97e76a11baeb.jpg)
