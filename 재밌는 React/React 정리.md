@@ -18,3 +18,16 @@ eslint가 잡아주는 문법 체크사항 사진처럼 저게 뜨는게 싫다 
      -  state는 변경되면 html이 자동으로 재렌더링이 됨.
      -  새로고침 없이 스무스하게 변경 자주 바뀌고 
      -  중요한 데이터는 state로 저장해서 쓰세요.
+
+### html 을 한단어로 줄여서 쓸 수 있는 방법 : 리엑트의 component 문법
+
+ - Component만드는 법</br>
+ - 단점? state 슬때 복잡해짐</br> 
+ 
+       어떤걸 Component 만드는게 좋을까?
+       반복 출현하는 html 덩어리들
+       자주 변경되는 html ui 들
+       다른 페이지 만들 때도 컴포넌트로 만듦
+       
+
+![3](https://user-images.githubusercontent.com/110442250/194856440-5ec2c30d-8162-4e60-a27f-4ded67b5fe18.jpg)
