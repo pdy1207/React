@@ -1,4 +1,4 @@
-# React4
+# React
 
  - 터미널에 뜨는 warning 
 
