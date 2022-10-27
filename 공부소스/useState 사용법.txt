@@ -1,0 +1,21 @@
+/* eslint-disable */
+import logo from "./logo.svg";
+import "./App.css";
+import React from "react";
+import { useState } from "react";
+
+function App() {
+  const [Cnt, setCnt] = useState(0);
+  return (
+    <div>
+      <p>클릭 횟수는 {Cnt} 입니다</p>
+      <button onClick={() => setCnt(Cnt + 1)}>값더하기</button>
+      <button onClick={() => setCnt(Cnt - 1)}>값더하기</button>
+      <button onClick={() => setCnt(0)}>초기화</button>
+    </div>
+  );
+}
+export default App;
+
+useState는 변수 값이 바뀔때마다, 화면의 동적으로 업데이트를 해주는 도구
+사용하기위해서는 import 해줘야함.
